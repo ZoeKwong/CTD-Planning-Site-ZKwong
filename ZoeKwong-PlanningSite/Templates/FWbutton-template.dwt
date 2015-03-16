@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:10px;
+	top:17px;
+	width:142px;
+	height:121px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:161px;
+	top:16px;
+	width:728px;
+	height:124px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:9px;
+	top:178px;
+	width:144px;
+	height:443px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:145px;
+	top:174px;
+	width:730px;
+	height:432px;
+	z-index:4;
+}td img {display: block;}
+</style>
+</head>
+
+<body>
+<div id="apDiv2">
+  <table width="500" border="0" align="center" cellpadding="0" cellspacing="0" style="display: inline-table;">
+    <!-- fwtable fwsrc="planningsite-buttons.png" fwpage="Page 1" fwbase="FWbuttons-planningsite.gif" fwstyle="Dreamweaver" fwdocid = "1319396795" fwnested="0" -->
+    <tr>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="8" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="156" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="8" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="156" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="9" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="156" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="7" height="1" border="0" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+    </tr>
+    <tr>
+      <td colspan="7"><img name="FWbuttonsplanningsite_r1_c1" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r1_c1.gif" width="500" height="17" border="0" id="FWbuttonsplanningsite_r1_c1" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="1" height="17" border="0" alt="" /></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><img name="FWbuttonsplanningsite_r2_c1" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c1.gif" width="8" height="73" border="0" id="FWbuttonsplanningsite_r2_c1" alt="" /></td>
+      <td><a href="file:///Macintosh HD/Users/CTD-01/Documents/WWWZoeKwong/www/CTD-Planning-Site-ZKwong/index.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttonsplanningsite_r2_c2','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c2_s2.gif','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttonsplanningsite_r2_c2','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c2_s3.gif',1);"><img name="FWbuttonsplanningsite_r2_c2" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c2.gif" width="156" height="55" border="0" id="FWbuttonsplanningsite_r2_c2" alt="" /></a></td>
+      <td rowspan="2"><img name="FWbuttonsplanningsite_r2_c3" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c3.gif" width="8" height="73" border="0" id="FWbuttonsplanningsite_r2_c3" alt="" /></td>
+      <td><a href="file:///Macintosh HD/Users/CTD-01/Documents/WWWZoeKwong/www/CTD-Planning-Site-ZKwong/wireframe-to-prototype.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttonsplanningsite_r2_c4','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c4_s2.gif','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttonsplanningsite_r2_c4','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c4_s3.gif',1);"><img name="FWbuttonsplanningsite_r2_c4" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c4.gif" width="156" height="55" border="0" id="FWbuttonsplanningsite_r2_c4" alt="" /></a></td>
+      <td rowspan="2"><img name="FWbuttonsplanningsite_r2_c5" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c5.gif" width="9" height="73" border="0" id="FWbuttonsplanningsite_r2_c5" alt="" /></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','FWbuttonsplanningsite_r2_c6','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c6_s2.gif','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c6_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','FWbuttonsplanningsite_r2_c6','../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c6_s3.gif',1);"><img name="FWbuttonsplanningsite_r2_c6" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c6.gif" width="156" height="55" border="0" id="FWbuttonsplanningsite_r2_c6" alt="" /></a></td>
+      <td rowspan="2"><img name="FWbuttonsplanningsite_r2_c7" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r2_c7.gif" width="7" height="73" border="0" id="FWbuttonsplanningsite_r2_c7" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="1" height="55" border="0" alt="" /></td>
+    </tr>
+    <tr>
+      <td><img name="FWbuttonsplanningsite_r3_c2" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r3_c2.gif" width="156" height="18" border="0" id="FWbuttonsplanningsite_r3_c2" alt="" /></td>
+      <td><img name="FWbuttonsplanningsite_r3_c4" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r3_c4.gif" width="156" height="18" border="0" id="FWbuttonsplanningsite_r3_c4" alt="" /></td>
+      <td><img name="FWbuttonsplanningsite_r3_c6" src="../../www/CTD-Planning-Site-ZKwong/images/FWbuttons-planningsite_r3_c6.gif" width="156" height="18" border="0" id="FWbuttonsplanningsite_r3_c6" alt="" /></td>
+      <td><img src="../../www/CTD-Planning-Site-ZKwong/images/spacer.gif" width="1" height="18" border="0" alt="" /></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv4"><!-- TemplateBeginEditable name="Subpage content" -->Subpage content<!-- TemplateEndEditable --></div>
+</body>
+</html>
